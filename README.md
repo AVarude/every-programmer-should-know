@@ -46,7 +46,8 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
-- :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/) - COMPLETED
+- ~~:page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)~~
+  ##### Why does 0.1 + 0.2 = 0.30000000000000004? Because in essence, floats are stored as bits with a sign bit, the significand bits and the exponent bits. While storing fractions, sometimes they are already rounded off because there isn't enough space to store those bits, hence this issue. We can use Number.toFixed({{decimal points to fix to}}) to fix this.
 - :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 

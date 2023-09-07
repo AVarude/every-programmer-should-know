@@ -91,6 +91,8 @@ But knowing the stuff will help you become better! :muscle:*
 - [OWASP Top 10](https://owasp.org/www-project-top-ten)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
+  #### Currently learned about public-private keys, we can encrypt using public and the recipient can decrypt using private and vice versa(RSA is an algorithm which generates public/private keys)
+  #### Learned about methods of communication like GPG and OpenSSL which enables us to genrate keys, sign docs, encrypt/decrypt information.
 
 ### UX/Usability
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)

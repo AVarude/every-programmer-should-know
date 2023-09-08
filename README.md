@@ -52,7 +52,9 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Basic Number Theory Every Programmer Should Know...](https://www.codechef.com/wiki/tutorial-number-theory/)
 
 ### Strings
-- :page_facing_up: [Unicode and Character Sets](https://www.joelonsoftware.com/articles/Unicode.html)
+- ~~:page_facing_up: [Unicode and Character Sets](https://www.joelonsoftware.com/articles/Unicode.html)~~
+  #### First character sets were stored in ASCII, but there are a lot of characters, and representing them in 2 bytes became impossible, so Unicode was invented, which essentially assigns a code point to a character. For example, A is U+0639, and these are then stored as Hex in the memory using UTF-8 encoding, which essentially says that each component in the code point is stored as 8 bits, hence opening up the possibility of representing all the characters.
+  #### The browser then has to let know of what encoding we use, hence the meta tag at the top of head with charset='utf-8' and the browser then decodes it accordingly.
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
 - :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
